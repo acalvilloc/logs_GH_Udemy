@@ -1,3 +1,16 @@
+# Resultados Teóricos
+## Primer test
+![tst1]()
+
+## Segundo test
+### Primer intento 6/8
+
+### Segundo intento
+![tst2]()
+
+## Tercer test
+![tst3]()
+
 # Capturas de "demos"
 
 ## Demo-01
